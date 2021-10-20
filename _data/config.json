@@ -26,6 +26,12 @@
             "title": "Blog",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "domain": "https://oval-crane-f770f.netlify.app"
